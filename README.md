@@ -8,7 +8,7 @@ I'm a Hobby Node.js and Web App dev, I do some programming for fun and have a fe
 
 🌍 I'm mostly active within the Anti-Xeno Initiative Elite: Dangerous Community
 
-💅 Designed: sentry.api, warden.bet
+💅 Designed: sentry.api, warden.bot, thargoid.watch, BasicSecurityManual
 
 🌱 Learning all about Open Source
 
